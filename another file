@@ -1,1 +1,2 @@
-cvzxdczxc
+def home(request):
+    return
